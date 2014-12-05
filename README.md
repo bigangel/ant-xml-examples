@@ -1,4 +1,4 @@
-ant-xml-example
+Ant-Build.xml-Examples
 ===============
-
-Ant xml examples
+## Our Goal
+Our goal is to build all kinds of examples of build.xml, helping users to build ant project rapidly.
